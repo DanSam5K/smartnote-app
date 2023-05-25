@@ -5,4 +5,7 @@
     <h1 class="my-5">{{note.title}}</h1>
     <p>{{note.content}}</p>
  </div>
+ <a href="{% url 'notes.list' %}" class="btn btn-primary">Back to all notes</a>
+ <a href="{% url 'notes.edit' note.id %}" class="btn btn-primary">Edit this note</a>
+
 {% endblock %}
