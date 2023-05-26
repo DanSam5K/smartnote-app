@@ -33,7 +33,6 @@ class NotesCreateView(LoginRequiredMixin, CreateView):
         return HttpResponseRedirect(self.get_success_url())
 
 
-
 class NotesListView(LoginRequiredMixin, ListView):
     model = Notes
     context_object_name = 'notes'
