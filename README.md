@@ -9,13 +9,11 @@ This is a simple note taking application that allows the user to create, read, u
 * [Questions](#questions)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Credits](#credits)
 * [Contact](#contact)
 * [Links](#links)
 * [Screenshots](#screenshots)
 * [Video](#video)
 * [Badges](#badges)
-* [Features](#features)
 * [How to Contribute](#how-to-contribute)
 
 ### Installation
@@ -44,20 +42,15 @@ To install dependencies, run the following:
 This project is licensed under the MIT license.
 
 ### Questions
-![GitHub Profile Pic](https://avatars.githubusercontent.com/u/79522355?v=4)
-
-If you have any questions about the repo, open an issue or contact [bpolo15](
-https://api.github.com/Dan) directly at null.
+If you have any questions about the repo, open an [issue](https://github.com/DanSam5K/smartnote-app/issues) or contact me directly at dansam5000@gmail.com
 
 ### Contributing
 [Contributor Covenant](https://www.contributor-covenant.org/)
+
 ### Tests
 To run tests, run the following:
 - ```python3 manage.py test```
 - ```python3 manage.py test --pattern="tests_*.py"```
-
-### Credits
--
 
 ### Contact
 Find me on GitHub: [DanSam5k](https://github.com/DanSam5K)
@@ -80,8 +73,6 @@ The current endpoints are:
 ![GitHub stars](https://img.shields.io/github/stars/DanSam5K/smart-notes-app?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/DanSam5K/smart-notes-app?style=social)
 
-### Features
--
 
 ### How to Contribute
 To contribute to this project, fork the repository, make changes, and push those changes to the repo.
