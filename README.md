@@ -51,6 +51,7 @@ If you have any questions about the repo, open an [issue](https://github.com/Dan
 To run tests, run the following:
 - ```python3 manage.py test```
 - ```python3 manage.py test --pattern="tests_*.py"```
+- ```python3 manage.py test --pattern="tests_*.py"```
 
 ### Contact
 Find me on GitHub: [DanSam5k](https://github.com/DanSam5K)
